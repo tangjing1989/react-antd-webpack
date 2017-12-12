@@ -14,6 +14,8 @@ cnpm install
 npm run start  //启动前端
 npm run server  //启动服务端
 ```
+
+npm run develop //一键启动前后端
 运行后端服务，提供简易mock数据
 - package.json的 proxy属性代表代理服务的url， 默认为 [http://localhost:8000](http://localhost:8000)
 
